@@ -28,9 +28,9 @@ It is a Swedish-founded, Dutch-headquartered multinational company that designs 
 
 
 ## Screenshots
-<img width="1066" alt="Homepagepng" src="https://drive.google.com/file/d/1eqc2bUE9kx3QN2yzdEep3RcyWx9HKnzO/view?usp=sharing">
-<img width="1079" alt="Login" src="https://drive.google.com/file/d/1O1LPbwpGa3ZIc_XPsADSZwZPxWQR77iX/view?usp=sharing">
-<img width="1080" alt="Product" src="https://drive.google.com/file/d/1HVhpuCQh4LeIENx0fsfUjO5PFa0XC5-b/view?usp=sharing">
+<img width="1066" alt="Homepagepng" src="https://github.com/khuranajordan/IKEA-Clone/blob/main/ikea1.jpg?raw=true">
+<img width="1079" alt="Login" src="https://github.com/khuranajordan/IKEA-Clone/blob/main/ikea2.jpg?raw=true">
+<img width="1080" alt="Product" src="https://github.com/khuranajordan/IKEA-Clone/blob/main/ikea3.jpg?raw=true">
 
 
 ## Team
